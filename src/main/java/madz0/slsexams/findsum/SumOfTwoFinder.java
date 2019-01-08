@@ -6,7 +6,7 @@ public class SumOfTwoFinder {
 
 	public int[] findNandM(List<Integer> sortedNumbers, int x) {
 		if (sortedNumbers == null || sortedNumbers.size() == 0) {
-			return null;
+			throw new IllegalArgumentException("Number list should not be null or empty");
 		}
 		int nIndex = 0;
 		int mIndex = sortedNumbers.size() - 1;
