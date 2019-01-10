@@ -1,6 +1,8 @@
-package madz0.slsexams.findsum;
+package com.github.madz0.slsexams.findsum;
 
 import org.junit.jupiter.api.Test;
+
+import com.github.madz0.slsexams.findsum.SumOfTwoFinder;
 
 import static org.junit.Assert.*;
 

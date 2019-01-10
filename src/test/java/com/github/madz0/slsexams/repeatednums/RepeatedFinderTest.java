@@ -1,6 +1,8 @@
-package madz0.slsexams.repeatednums;
+package com.github.madz0.slsexams.repeatednums;
 
 import org.junit.jupiter.api.Test;
+
+import com.github.madz0.slsexams.repeatednums.RepeatedFinder;
 
 import static org.junit.Assert.*;
 

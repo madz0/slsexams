@@ -1,4 +1,4 @@
-package madz0.slsexams;
+package com.github.madz0.slsexams;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
